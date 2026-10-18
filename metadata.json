@@ -1,0 +1,6 @@
+{
+  "name": "Tarjamah Live - Arabic Real-Time Video Translator Extension",
+  "description": "Production-ready Chrome & Brave Extension (Manifest V3) for real-time tab audio capture, Groq Whisper STT, and Google Gemini Arabic subtitle translation with live interactive simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
